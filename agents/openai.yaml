@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验报告"
+  short_description: "按实验要求撰写中文报告，使用真实数据、简短清楚的句子和统一黑色字体。"
+  default_prompt: "使用 $lab-report，根据实验指导书和运行结果完成报告，语言清楚，字体统一，文字全部黑色。"
